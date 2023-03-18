@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D5616AQGqVEEnSFDYMQ/profile-displaybackgroundimage-shrink_350_1400/0/1670946381419?e=1684368000&v=beta&t=q_IbgsANV02wsUGw499SvehInNHfynYKzdDN7mcGIAE)
 <h1 align="center">Hi 👋, I'm Zareena Mohammed</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Kubernetes Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 
